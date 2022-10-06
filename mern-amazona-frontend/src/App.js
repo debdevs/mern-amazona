@@ -2,6 +2,7 @@ import data from './data';
 import ProductScreen from './screens/ProductScreen';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import HomeScreen from './screens/HomeScreen';
+
 function App() {
   return (
     <BrowserRouter>
